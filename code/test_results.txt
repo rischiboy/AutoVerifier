@@ -1,0 +1,7 @@
+Test cases total: 45 (20 public + 25 prelim)
+Max possible points: 33 (15 public + 18 prelim)
+
+own1: public 2pkt (4*sound verified, 1*unsound), prelim 0pkt (1*sound verified, 1*unsound) => 2pkt
+Midpoint1: public 5pkt (7*sound verified, 1*unsound), prelim -1pkt (5*sound verified, 3*unsound) => 4pkt
+Midpoint1b: public 3pkt (5*sound verified, 1*unsound), prelim 0pkt (1*sound verified, 1*unsound) => 3pkt
+
