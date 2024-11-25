@@ -1,4 +1,4 @@
-# RIAI 2021 Course Project
+# Reliable and Trustworthy AI (2021 Course Project)
 
 
 
